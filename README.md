@@ -45,7 +45,7 @@ mensagem2: "§4[HORDA] §cVocê setou a horda §6{1,2,3,4,5} §cna localização
 #mensagem de ja setado.
 mesagem3: "§4[HORDA] §cErro, esse localização já foi setada, remova ela para setar novamente!"
 Comandos; /setarhorda {1,2,3,4,5}, /removerhorda {1,2,3,4,5}, /wchordareload (recarregar o plugin).
-#Todos os plugins que nascerem sem ser da horda pelo mapa é para vir com os efeitos memso assim.
+#Todos os zumbis que nascerem sem ser da horda pelo mapa é para vir com os efeitos memso assim.
 Permissão: WCZumbi.*
 Obrigado :D
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
