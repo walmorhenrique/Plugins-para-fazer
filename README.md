@@ -1,12 +1,12 @@
                                     >-------------------------------------------------------------<
-									                  # Plugins para serem feitos;                                  #
-                                    #1º   WCZumbi                        				   		            #
+                                    # Plugins para serem feitos;                                  #
+                                    #1º   WCZumbi                                                 #
                                     #2º   WCRadiação                                              #
                                     #3º   WCNoHitDelay                                            #
                                     #4º   WCAirDrop                                               #
                                     #5º   WCCofre                                                 #
                                     #6º   WCKillRanking                                           #
-									                  #7º   WCBan                                                   #
+                                    #7º   WCBan                                                   #
                                     >-------------------------------------------------------------<
 1º WCZumbi;
 
@@ -97,7 +97,7 @@ Permissão: WCRadiação.*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 3º WCNoHitDelay
 
-BOM, esse ja espliquei para você, não haverá configuração, vou te mostrar no servidor do lek ai se vê como faz.
+BOM, esse ja expliquei para você, não haverá configuração, vou te mostrar no servidor do lek ai se vê como faz.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 4º WCAirDrop
 
