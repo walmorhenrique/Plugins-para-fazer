@@ -46,7 +46,7 @@ mensagem2: "§4[HORDA] §cVocê setou a horda §6{1,2,3,4,5} §cna localização
 mesagem3: "§4[HORDA] §cErro, esse localização já foi setada, remova ela para setar novamente!"
 Comandos; /setarhorda {1,2,3,4,5}, /removerhorda {1,2,3,4,5}, /wchordareload (recarregar o plugin).
 #Todos os zumbis que nascerem sem ser da horda pelo mapa é para vir com os efeitos memso assim.
-Permissão: WCZumbi.*
+Permissão: WCZumbi.* (permissão somente para os comandos)
 Obrigado :D
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 2º WCRadiação
@@ -93,7 +93,7 @@ mesagem6: "§4[RADIAÇÃO] §cErro, esse localização já foi setada, remova el
 
 #Comandos
 Comandos: /setradicao {1,2,3}, /removeradiacao {1,2,3}, /wcradicaoreload(recarregar o plugin).
-Permissão: WCRadiação.*
+Permissão: WCRadiação.* (essa permissão é somente para usar os comandos, não é presiso colocar permissão pra ve e receber radição, somente nos comandos mesmo!)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 3º WCNoHitDelay
 
@@ -160,7 +160,7 @@ mesagem3: "§4[AirDrop] §cErro, esse localização já foi setada, remova ela p
 mensagem4: "§b[AirDrop] &6Caindo um AirDrop na localização {localização}, corra para garantir que seja seu!"
 #Comandos
 comandos: /setaraidrop {1,2,3,4,5,6,7,8,9,10}, /removerairdrop {1,2,3,4,5,6,7,8,9,10},/wcairdropreload (recarregar o plugin).
-Permissão: WCAirDrop.*
+Permissão: WCAirDrop.* (o jogador normal poderá abrir o air drop, só não terá acesso aos comandos.)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 5º WCCofre
 Bom esse e bem simples e facil :D, ele terá não uma localização, e sim será um bloco, esse bloco será o ejetor, o jogador clicara no cofre com uma chave a chave será um item
@@ -218,11 +218,13 @@ mensagem3: "§4[COFRE] &cDesculpe, mas o cofre está vazio, volte mais tarde."
 mensagem4: "§a[COFRE] &6O cofre foi recarregado!!!"
 #Comandos
 Comandos: /pegarchave,/pegarcofre,/wccofrereload.
+#permissão, wccofre.*,wccofre.chave (pra poder usar a chave não precisa de permisão, somente para usar os comandos quero permissão, por exembo o player clica com a chave no cofre não precisara de permissão, somente para os comandos acima.),wccofre.cofre,wccofre.reload.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 6º WCKillRanking
 Então, eu já tenho esse plugin, pois o cara que fez deixou varios bugs e na versão só 1.5.2, queria que você refizesse ele da mesma forma, mas colova como prioridade minha, tipo wckillranking
 e resolvesse os bugs.
 Obrigado :D, logo pedirei mais plugins, só falta ideia :v.
+#permissão, wckillranking.*
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 7º WCBan
 Então, esse é essencial kk, plugin top de ban.
@@ -345,3 +347,4 @@ Desban: "&cO jogador {jogador} foi desbanido do servidor!"
   SalvarNickBanido: true
   Broadcast-desban-msg: false
 version: 1.0
+#permissão, wcban.*
